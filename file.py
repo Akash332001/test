@@ -1,7 +1,7 @@
 a=input("Enter city")
-if(a=="London"):
-    print("Chelsea")
-    print("Tottenham")
+if(a=="Manchester"):
+    print("City")
+    print("United")
 else:
-    print("Barcelona")
+    print("Milan")
     
